@@ -1,16 +1,18 @@
-## Hi there 👋
+## 👋 Olá! Eu sou Kauan Cerqueira
 
-<!--
-**KauanCerqueira/KauanCerqueira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Desenvolvedor Fullstack C# com 3 anos de experiência sólida, especializado em automação, integrações e desenvolvimento de APIs robustas. Sou apaixonado por criar soluções tecnológicas eficientes e inovadoras.
 
-Here are some ideas to get you started:
+💻 Atuo com tecnologias como:
+- ASP.NET Core, ASP.NET MVC 5, .NET MAUI
+- SQL Server, Entity Framework Core
+- Selenium para automação de testes e processos
+- Integrações com IA via APIs e consumo de APIs RESTful
+- Conhecimentos em Python e Machine Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📈 Busco constantemente desafios que me permitam evoluir tecnicamente, contribuir com projetos de impacto e promover a transformação digital nas empresas.
+
+🔗 Conecte-se comigo:
+- [LinkedIn](https://www.linkedin.com/in/kauan-cerqueira)
+- [Portfólio de Projetos](https://github.com/KauanCerqueira?tab=repositories)
+
+📫 Entre em contato para colaborações, freelas ou projetos interessantes!
