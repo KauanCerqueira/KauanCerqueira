@@ -12,7 +12,7 @@
 📈 Busco constantemente desafios que me permitam evoluir tecnicamente, contribuir com projetos de impacto e promover a transformação digital nas empresas.
 
 🔗 Conecte-se comigo:
-- [LinkedIn](https://www.linkedin.com/in/kauan-cerqueira)
+- [LinkedIn]([https://www.linkedin.com/in/kauan-cerqueira](https://www.linkedin.com/in/kauan-cerqueira-981a432b6/))
 - [Portfólio de Projetos](https://github.com/KauanCerqueira?tab=repositories)
 
 📫 Entre em contato para colaborações, freelas ou projetos interessantes!
