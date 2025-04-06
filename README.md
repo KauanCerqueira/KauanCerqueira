@@ -1,9 +1,4 @@
 ## 👋 Olá! Eu sou Kauan Cerqueira
-
-<p align="center">
-  <img src="https://media.giphy.com/media/l0HUpt2s9Pclgt9Vm/giphy.gif" width="300"/>
-</p>
-
 <p align="center"><i>"The Force will be with you. Always."</i></p>
 
 🎯 Desenvolvedor Fullstack C# com 3 anos de experiência sólida, especializado em automação, integrações e desenvolvimento de APIs robustas. Sou apaixonado por criar soluções tecnológicas eficientes e inovadoras.
