@@ -16,3 +16,11 @@
 - [Portfólio de Projetos](https://github.com/KauanCerqueira?tab=repositories)
 
 📫 Entre em contato para colaborações, freelas ou projetos interessantes!
+
+### 🛠️ Tecnologias e Ferramentas
+![C#](https://img.shields.io/badge/-CSharp-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+
