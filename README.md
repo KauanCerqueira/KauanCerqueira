@@ -1,5 +1,11 @@
 ## 👋 Olá! Eu sou Kauan Cerqueira
 
+<p align="center">
+  <img src="https://media.giphy.com/media/l0HUpt2s9Pclgt9Vm/giphy.gif" width="300"/>
+</p>
+
+<p align="center"><i>"The Force will be with you. Always."</i></p>
+
 🎯 Desenvolvedor Fullstack C# com 3 anos de experiência sólida, especializado em automação, integrações e desenvolvimento de APIs robustas. Sou apaixonado por criar soluções tecnológicas eficientes e inovadoras.
 
 💻 Atuo com tecnologias como:
@@ -26,6 +32,7 @@
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Star Wars](https://img.shields.io/badge/-Star%20Wars-000000?style=for-the-badge&logo=star-wars&logoColor=yellow)
 
 ---
 
