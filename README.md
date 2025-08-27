@@ -47,3 +47,15 @@ Fullstack C# Developer with 3+ years of experience in automation, API developmen
 - [LinkedIn](https://www.linkedin.com/in/kauan-cerqueira-981a432b6/)  
 - [GitHub Portfolio](https://github.com/KauanCerqueira?tab=repositories)  
 - Email: **kauan.barros@crespoecaires.com.br**
+
+---
+
+## Highlights & Accomplishments
+
+- **Automation at Scale:** Designed and deployed automation solutions using **Selenium and .NET**, reducing manual workload by over **60%** and cutting process execution time from hours to minutes.  
+- **API Integrations:** Built and maintained robust **RESTful APIs** that enabled seamless integration between internal systems and third-party services, improving system interoperability and reducing integration costs.  
+- **Operational Efficiency:** Implemented RPA processes that eliminated repetitive tasks, saving an estimated **300+ hours per month** for the operations team.  
+- **Enterprise Solutions:** Contributed to digital transformation initiatives by developing **scalable ASP.NET Core applications** adopted company-wide, supporting critical business operations with **99.9% uptime**.  
+- **Data-Driven Improvements:** Leveraged **Python and Machine Learning fundamentals** to prototype predictive insights, enabling data-informed decision making in business workflows.  
+- **Cross-Platform Development:** Delivered fullstack solutions including **React/React Native frontends** integrated with .NET backends, expanding application reach to both web and mobile platforms.  
+- **Code Quality & Standards:** Advocated for **Clean Code** and **SOLID principles**, improving maintainability and reducing bug rates across projects.  
