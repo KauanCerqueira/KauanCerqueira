@@ -1,33 +1,45 @@
 # Kauan Cerqueira
 
 ## Profile
-Fullstack C# Developer with 3+ years of experience in automation, API development, and system integrations. Skilled in building scalable and maintainable solutions, with strong expertise in backend technologies and solid knowledge in frontend frameworks. Focused on delivering high-quality code and contributing to impactful projects in international environments.
+Fullstack C# Developer with 3+ years of experience in automation, API development, and enterprise system integrations. Strong background in designing scalable solutions, building reliable backends, and delivering high-quality code for critical business applications. Experienced in modern architectures, cloud-ready applications, and digital transformation initiatives.
 
 ---
 
-## Core Skills
+## Core Competencies
+- Backend Development with **ASP.NET Core, ASP.NET MVC 5, .NET MAUI**
+- Database Design and ORM: **SQL Server, Entity Framework Core**
+- Automation and RPA: **Selenium WebDriver** for process automation and testing
+- RESTful APIs and **AI integrations** with external services
+- Frontend development with **React** and **React Native** (mobile apps)
+- Additional expertise in **Python** and **Machine Learning** fundamentals
+- Experience with **Software Architecture, Clean Code, and SOLID principles**
 
-### Backend & Frameworks
-![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![C#](https://img.shields.io/badge/-CSharp-239120?style=flat-square&logo=csharp&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/-ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![ASP.NET MVC](https://img.shields.io/badge/-ASP.NET%20MVC-68217A?style=flat-square)
+---
 
-### Databases
-![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-![Entity Framework](https://img.shields.io/badge/-Entity%20Framework-512BD4?style=flat-square)
+## Tech Stack
 
-### Automation & Testing
-![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
-
-### APIs & Integrations
-![RESTful](https://img.shields.io/badge/-RESTful%20APIs-005571?style=flat-square)
-![AI Integration](https://img.shields.io/badge/-AI%20APIs-FF6F00?style=flat-square)
-
-### Additional
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-102230?style=flat-square)
+<p align="center">
+  <!-- Languages & Frameworks -->
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/ASP.NET%20Core-68217A?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET%20MAUI-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Entity%20Framework-512BD4?style=for-the-badge" />
+  
+  <!-- Databases -->
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  
+  <!-- Automation & Testing -->
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
+  
+  <!-- Frontend & Mobile -->
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  
+  <!-- AI & Data -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge" />
+</p>
 
 ---
 
