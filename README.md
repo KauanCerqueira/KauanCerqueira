@@ -59,6 +59,3 @@ Fullstack C# Developer with 3+ years of experience in automation, API developmen
 - **Data-Driven Improvements:** Leveraged **Python and Machine Learning fundamentals** to prototype predictive insights, enabling data-informed decision making in business workflows.  
 - **Cross-Platform Development:** Delivered fullstack solutions including **React/React Native frontends** integrated with .NET backends, expanding application reach to both web and mobile platforms.  
 - **Code Quality & Standards:** Advocated for **Clean Code** and **SOLID principles**, improving maintainability and reducing bug rates across projects.  
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KauanCerqueira&show_icons=false&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KauanCerqueira&layout=compact&langs_count=8&hide=css,html)](https://github.com/anuraghazra/github-readme-stats)
