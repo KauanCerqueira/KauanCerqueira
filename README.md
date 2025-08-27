@@ -46,7 +46,7 @@ Fullstack C# Developer with 3+ years of experience in automation, API developmen
 ## Contact
 - [LinkedIn](https://www.linkedin.com/in/kauan-cerqueira-981a432b6/)  
 - [GitHub Portfolio](https://github.com/KauanCerqueira?tab=repositories)  
-- Email: **kauan.barros@crespoecaires.com.br**
+- Email: **kauan.cerqueira0199@gmail.com.br**
 
 ---
 
