@@ -1,30 +1,37 @@
-## 👋 Olá! Eu sou Kauan Cerqueira
+# Kauan Cerqueira
 
-> “In a galaxy far, far away… great code was written.” — ⚡
-
-🎯 Desenvolvedor Fullstack C# com 3 anos de experiência sólida, especializado em automação, integrações e desenvolvimento de APIs robustas. Sou apaixonado por criar soluções tecnológicas eficientes e inovadoras.
-
-💻 Atuo com tecnologias como:
-- ASP.NET Core, ASP.NET MVC 5, .NET MAUI
-- SQL Server, Entity Framework Core
-- Selenium para automação de testes e processos
-- Integrações com IA via APIs e consumo de APIs RESTful
-- Conhecimentos em Python e Machine Learning
-
-📈 Busco constantemente desafios que me permitam evoluir tecnicamente, contribuir com projetos de impacto e promover a transformação digital nas empresas.
-
-🔗 Conecte-se comigo:
-- [LinkedIn](https://www.linkedin.com/in/kauan-cerqueira-981a432b6/)
-- [Portfólio de Projetos](https://github.com/KauanCerqueira?tab=repositories)
-
-📫 Entre em contato para colaborações, freelas ou projetos interessantes!
+## Profile
+Fullstack C# Developer with 3+ years of experience in automation, API development, and system integrations. Skilled in building scalable and maintainable solutions, with strong expertise in backend technologies and solid knowledge in frontend frameworks. Focused on delivering high-quality code and contributing to impactful projects in international environments.
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+## Core Skills
 
-![C#](https://img.shields.io/badge/-CSharp-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+### Backend & Frameworks
+![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/-CSharp-239120?style=flat-square&logo=csharp&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/-ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![ASP.NET MVC](https://img.shields.io/badge/-ASP.NET%20MVC-68217A?style=flat-square)
+
+### Databases
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/-Entity%20Framework-512BD4?style=flat-square)
+
+### Automation & Testing
+![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
+
+### APIs & Integrations
+![RESTful](https://img.shields.io/badge/-RESTful%20APIs-005571?style=flat-square)
+![AI Integration](https://img.shields.io/badge/-AI%20APIs-FF6F00?style=flat-square)
+
+### Additional
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-102230?style=flat-square)
+
+---
+
+## Contact
+- [LinkedIn](https://www.linkedin.com/in/kauan-cerqueira-981a432b6/)  
+- [GitHub Portfolio](https://github.com/KauanCerqueira?tab=repositories)  
+- Email: **kauan.barros@crespoecaires.com.br**
