@@ -77,5 +77,4 @@ to implementation, monitoring, and operational stability.
 
 ## Contact
 - LinkedIn: https://www.linkedin.com/in/kauan-cerqueira-981a432b6
-- GitHub: https://github.com/KauanCerqueira
 - Email: kauan.cerqueira0199@gmail.com.br
